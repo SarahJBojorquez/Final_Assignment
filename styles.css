@@ -63,8 +63,8 @@ header h1 {
 }
 
 .link-btn {
-    background-color: #007bff;
-    color: white;
+    background-color: #229954; /*new color green */
+    color: #007bff; /*Current color blue*/
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -86,7 +86,7 @@ header h1 {
         flex-direction: column;
     }
 
-    .link-btn {
+    .link-btn {background-color: #229954; /*new color green */
         width: 100%;
         padding: 12px;
     }
